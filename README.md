@@ -9,3 +9,13 @@ Requirements:
 
 1. Install NextDNS on your phone
 2. open the website, log in, and add a blocklist with these links:
+waluigi.goguardian.com
+snat.goguardian.com
+ip.goguardian.com
+hosted-extensions.goguardian.com
+blocked.goguardian.com
+goguardian.com
+3. get the id from the setup page and add it as the custom profile in NextDNS
+4. connect to hotspot while logging in
+5. if the school wifi tries to reconnect quickly go back to the hotspot
+6. profit
