@@ -1,4 +1,4 @@
-#GoGuarDNS
+# GoGuarDNS
 an exploit to remove GoGuardian from a school managed chroembook for people who dont have access to custom DNS on the school wifi
 
 Requirements:
